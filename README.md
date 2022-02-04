@@ -1,2 +1,2 @@
 # Pictionary_CPT
-2021-2022 creative performance task.  
+This is my Creative Prefromance task for AP computer science principles 2021-2022.  
